@@ -228,11 +228,11 @@ Los permisos deberían ser como los siguientes:
 
 # Uso básico del Sistema del Archivo de Lenguas Indígenas Nacionales<a id="sec-2" name="sec-2"></a>
 
-[Página principal del sitio de ALIN](README/alin_principal.eps)
+[Página principal del sitio de ALIN](README/alin_principal.jpg)
 
 ## Panel Administrativo<a id="sec-2-1" name="sec-2-1"></a>
 
-[Panel Administrativo](README/panel_administrativo.eps)
+[Panel Administrativo](README/panel_administrativo.jpg)
 
 El   panel   Administrativo   aparece   solamente    en   las   cuentas   con   privilegios   de
 **Administración**. Aquí  se verán dos  de sus opciones más  importantes: Control de  acceso sobre
@@ -297,7 +297,7 @@ crearse directamente  dentro de  las familias.  Pueden crearlas los  usuarios qu
 grupo  **Administradores**  con  la  opción  **Crear  variante  lingüística**  ubicada  en  el  menú
 **Contexto**.
 
-[Formulario para crear variante](README/crear_variante.eps)
+[Formulario para crear variante](README/crear_variante.jpg)
 
 Para la creación de familias y agrupaciones se solicitan los siguientes datos:
 
@@ -313,14 +313,14 @@ Además la creación de variantes solicita:
 -   Licencia. Con información de derecho de cita y usos permitidos,
 -   Origen. De la información incluida.
 
-[Apartado para asignar roles](README/roles_vacio.eps)
+[Apartado para asignar roles](README/roles_vacio.jpg)
 
 Una vez creada la agrupación o variante necesaria,  es oportuno ir al apartado **Asignar roles** y
 asociar a un grupo o usuario a cada rol.
 
-[Asignando roles 1](README/roles_admin.eps)
-[Asignando roles 2](README/roles_submit.eps)
-[Roles asignados](README/roles_lleno.eps)
+[Asignando roles 1](README/roles_admin.jpg)
+[Asignando roles 2](README/roles_submit.jpg)
+[Roles asignados](README/roles_lleno.jpg)
 
 ## Enviar un ítem<a id="sec-2-3" name="sec-2-3"></a>
 
@@ -366,4 +366,4 @@ administrador verifica los metadatos ingresados en el  ítem, si el ítem es ace
 tercer y  último paso donde un  administrador hace una  revisión general del ítem,  modifica los
 permisos de los archivos incluidos y acepta su publicación.
 
-[Flujo de trabajo](README/flujo.eps)
+[Flujo de trabajo](README/flujo.jpg)
